@@ -1,4 +1,4 @@
--- Made By zack;#6969
+-- Made By 	Snaek X 
 
 -- Instances:
 
@@ -12,7 +12,7 @@ local TextLabel = Instance.new("TextLabel")
 
 --Properties:
 
-FlyScript.Name = "FlyScript"
+FlyScript.Name = "Snaek X"
 FlyScript.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 FlyScript.ResetOnSpawn = false
 
@@ -60,7 +60,7 @@ TextLabel.Position = UDim2.new(0.487012982, 0, 0.5, 0)
 TextLabel.Size = UDim2.new(0.878787875, -20, 0.728395045, -20)
 TextLabel.ZIndex = 2
 TextLabel.Font = Enum.Font.GothamBold
-TextLabel.Text = "Fly"
+TextLabel.Text = "طيران"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextScaled = true
 TextLabel.TextSize = 14.000
